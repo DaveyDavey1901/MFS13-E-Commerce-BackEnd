@@ -1,4 +1,4 @@
-#:small_orange_diamond: MFS13-E-Commerce-BackEnd
+# :small_orange_diamond: MFS13-E-Commerce-BackEnd
 ## Table of Contents:
   1. [Description](#Description) 
   2. [Installation](#Installation)
@@ -13,6 +13,7 @@
 
 In this project i needed to modify the back end of a  e-commerce site that uses Express.js, Node.js, and  Sequelize which will be used to interact with the MySql Database.   
 |<img src="Assets\E-Commerce BackEnd.gif" width="600">| 
+
 
 :file_folder:[Click Here to View the Screencast Video](https://watch.screencastify.com/v/TVB3py8kwLKk9ON1rW4z)
 
